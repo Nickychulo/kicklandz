@@ -1,4 +1,3 @@
-
 pygments:         true
 permalink:        pretty
 markdown:         rdiscount
@@ -11,7 +10,7 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Aplomb & The Creative Conspiracy
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
@@ -24,7 +23,7 @@ url:              http://muan.co/kickstarter/
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Aplomb And The Creative Conspiracy
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://kck.st/12bbLkw
@@ -33,10 +32,10 @@ project:
   cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    Apparel created from your ideas! Designed to spread your message.
 #
 # 4. Your Twitter handle
-twitter_handle:   StairRover
+twitter_handle:   AplombandTCC
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 
