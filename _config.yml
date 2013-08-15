@@ -20,13 +20,13 @@ website:          http://aplombclothing.com/
 url:              http://[your_username].github.io/
 #
 # 3. About your kickstarter project
-project:  It's pretty awesome thats all you need to know
+project:
   #
   # Name of the project
   name:           Aplomb & The Creative Conspiracy
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://kck.st/12bbLkw
+  url:            http://kck.st/1cNWSzc
   #
   # URL of a cover photo of your project
   cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
