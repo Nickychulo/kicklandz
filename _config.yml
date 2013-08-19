@@ -42,5 +42,5 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  We sincerely appreciate your assistance in spreading the word about us and<br />
-  one day we'll tell our Grandchildren about you!<br />
+  We sincerely appreciate your assistance in spreading the word about us. One day we'll<br />
+  tell our Grandchildren about you!<br />
