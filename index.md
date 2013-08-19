@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello there!
+## Deez
 
 {{ site.welcome_text }}
 
